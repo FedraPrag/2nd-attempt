@@ -1,2 +1,3 @@
 # 2nd-attempt
-Let's get all the instructions clear!
+
+Hello, that's me again, trying to understand how this works.
